@@ -1,0 +1,14 @@
+canvas {
+  position: absolute;
+  /* background-color: #0D0D0D; */
+	background: radial-gradient( #181818, #000 );
+  top : 0;
+  left : 0;
+}
+
+#emitterGUI {
+  position: absolute;
+  top: 0;
+  left: 1%;
+  
+}
